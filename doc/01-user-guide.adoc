@@ -98,7 +98,7 @@ Or the following under `:deps` in your `deps.edn` file:
    etaoin/etaoin {:mvn/version "{lib-version}"}
 ----
 
-==== For Bababashka Users
+==== For Babashka Users
 
 We recommend the current release of https://book.babashka.org/#_installation[babashka].
 
